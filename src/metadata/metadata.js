@@ -8,6 +8,7 @@ module.exports = {
                   <span class="screen">Github</span>
                 </a>`,
     Email: '<a href="mailto:denizguzel.iu@gmail.com">denizguzel.iu@gmail.com</a>',
+    LinkedIn: '<a href="https://www.linkedin.com/in/deniz-g%C3%BCzel-06328a9b/">Deniz Güzel | LinkedIn</a>',
     Phone: '543 503 92 93',
   },
   skills: [
