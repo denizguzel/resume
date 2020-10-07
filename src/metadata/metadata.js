@@ -5,10 +5,11 @@ module.exports = {
     Residence: 'Bahçelievler/İstanbul',
     Homepage: `<a href="https://github.com/denizguzel">
                   <span class="print">https://github.com/denizguzel</span>
-                  <span class="screen">Github</span>
-                </a>`,
+                  <span class="screen">https://github.com/denizguzel</span>
+               </a>
+              `,
     Email: '<a href="mailto:denizguzel.iu@gmail.com">denizguzel.iu@gmail.com</a>',
-    LinkedIn: '<a href="https://www.linkedin.com/in/deniz-g%C3%BCzel-06328a9b/">Deniz Güzel | LinkedIn</a>',
+    LinkedIn: '<a href="https://www.linkedin.com/in/deniz-guzel/">https://www.linkedin.com/in/deniz-guzel/</a>',
     Phone: '543 503 92 93',
   },
   skills: [
@@ -77,6 +78,7 @@ module.exports = {
   affiliations: [
     'Levent Arman Özak, Software Architect, 0 532 787 21 53',
     'Remzi Özcan, Software Team Leader, 0 507 006 88 72',
+    'Erhan Günal, Software Team Leader, 0 507 614 09 64',
   ],
   additional: ['Military Services: Completed', 'No smoking', 'No driver license'],
 };
