@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   name: 'Deniz Güzel',
   title: 'Frontend Developer',
   facts: {
