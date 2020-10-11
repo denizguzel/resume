@@ -22,8 +22,10 @@ export default {
       props: [
         'Angular with NGXS or NGRX, RxJS',
         'SSR (Server Side Rendering) with Angular Universal',
+        'Jest, Puppeteer',
         'Bootstrap, Sass, HTML5, CSS3',
         'Patternlab, Fractal with Twig Template Engine',
+        'Storybook',
         'React with Redux (intermediate knowledge)',
         'Next.js (intermediate knowledge)',
         'Vue.js (entry knowledge)',
@@ -35,7 +37,7 @@ export default {
     },
     {
       title: 'Tools',
-      props: ['Git', 'Yarn', 'Npm', 'Webpack'],
+      props: ['Git', 'Yarn', 'Npm', 'Webpack', 'Github', 'Jenkins', 'Bitbucket', 'Jira'],
     },
   ],
   workHistory: [
@@ -48,21 +50,27 @@ export default {
       },
       contents: [
         {
-          title: 'Marvel Project, Frontend Developer (https://videotron.com/en)',
+          title:
+            'Marvel Project, Frontend Developer <a href="https://videotron.com/en" target="_blank">(https://videotron.com/en)</a>',
           props: [
             'Lead technical support of complex UX flows and development',
+            'Deciding on development standarts and architecture',
             'GTM (Google Tag Manager) implementation (based on state management with NGXS)',
             'Developing and maintaining atomic design component structure of multiple applications based on project UI-Kit',
-            'Angular and CMS (Drupal) E2E integration with cross-domain state transfer.',
-            'Working on two main frontend application which are web self-care and customer self representative. First one is for customers and second one is internal (behind a VPN) frontend application for customer representatives. Both are pushed to production successfully.',
+            'Angular and CMS (Drupal) E2E integration with cross-domain state transfer',
+            'Working on two main frontend application which are web self-care and customer self representative. First one is for customers and second one is internal (behind a VPN) frontend application for customer representatives. Both are pushed to production successfully',
+            'Technical support to colleagues and pair programming',
+            'Still on development, approximately 2 year or more',
           ],
         },
         {
-          title: 'Fizz, Frontend Developer (https://fizz.ca/)',
-          props: ['App development from beginning to end with Angular 5-7, RxJS, NGRX, Typescript, Sass'],
+          title: 'Fizz, Frontend Developer <a href="https://fizz.ca/" target="_blank">(https://fizz.ca)</a>',
+          props: [
+            'App development from beginning to end (approximately 1 year or more) with Angular 5-7, RxJS, NGRX, Typescript, Sass',
+          ],
         },
       ],
-      badges: ['Angular', 'RxJS', 'NGXS', 'NGRX', 'Patternlab', 'Twig'],
+      badges: ['Angular', 'RxJS', 'NGXS', 'NGRX', 'Jest', 'Patternlab', 'Twig', 'Keycloak', 'Nrwl'],
     },
   ],
   educations: [
