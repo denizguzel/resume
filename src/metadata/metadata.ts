@@ -26,14 +26,14 @@ export default {
         'Bootstrap, Sass, HTML5, CSS3',
         'Patternlab, Fractal with Twig Template Engine',
         'Storybook',
-        'React with Redux (intermediate knowledge)',
-        'Next.js (intermediate knowledge)',
-        'Vue.js (entry knowledge)',
+        'React with Redux',
+        'Next.js',
+        'Vue.js',
       ],
     },
     {
       title: 'Back-end',
-      props: ['Express (entry knowledge)', 'NestJS (entry knowledge)'],
+      props: ['Express', 'NestJS'],
     },
     {
       title: 'Tools',
@@ -57,10 +57,10 @@ export default {
             'Deciding on development standarts and architecture',
             'GTM (Google Tag Manager) implementation (based on state management with NGXS)',
             'Developing and maintaining atomic design component structure of multiple applications based on project UI-Kit',
-            'Angular and CMS (Drupal) E2E integration with cross-domain state transfer',
+            "Angular and CMS (Drupal) E2E integration with cross-domain state transfer supported with backend API's",
             'Working on two main frontend application which are web self-care and customer self representative. First one is for customers and second one is internal (behind a VPN) frontend application for customer representatives. Both are pushed to production successfully',
             'Technical support to colleagues and pair programming',
-            'Still on development, approximately 2 year or more',
+            'Still on development, approximately 2 year or more with Angular 8, RxJS, NGXS, single sign on (SSO) authentication with Keycloak, test suites with Jest, project structure with Nrwl',
           ],
         },
         {
@@ -88,5 +88,5 @@ export default {
     'Remzi Özcan, Software Team Leader, 0 507 006 88 72',
     'Erhan Günal, Software Team Leader, 0 507 614 09 64',
   ],
-  additional: ['Military Services: Completed', 'No smoking', 'No driver license'],
+  additional: ['Military Services: Completed', 'No smoking'],
 };
